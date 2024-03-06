@@ -5,3 +5,14 @@ MY TO-DO LIST
 4. Attend classes on time.
 5. Visit aunt.
 6. Apply for remote jobs.
+
+
+- آشنایی با گیت
+2- آشنایی با branch 
+3- دستور diff و برگرداندن تغییرات
+4- دستور stash
+5- آشنایی با گیت هاب
+6- دستور fetch و pull
+7- همکاری در گیت هاب
+8- دستور Rebase
+9- دستور tag
